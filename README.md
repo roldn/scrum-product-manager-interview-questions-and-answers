@@ -20,10 +20,10 @@ scrum-product-manager-interview-questions-and-answers/
 ├── README.md
 │
 ├── Spanish/
-│   └── questions-and-answers.md
+│   └── README.md
 │
 └── English/
-    └── questions-and-answers-en.md
+    └── README.md
 ```
 
 ---
@@ -32,8 +32,8 @@ scrum-product-manager-interview-questions-and-answers/
 
 | File | Language | Description |
 |---|---|---|
-| [`Spanish/questions-and-answers.md`](./Spanish/questions-and-answers.md) | Español | Criterios y posicionamiento sobre Scrum y gestión de producto |
-| [`English/questions-and-answers-en.md`](./English/questions-and-answers-en.md) | English | Scrum and product management criteria and positioning |
+| [`Spanish/README.md`](./Spanish/README.md) | Español | Criterios y posicionamiento sobre Scrum y gestión de producto |
+| [`English/README.md`](./English/README.md) | English | Scrum and product management criteria and positioning |
 
 ---
 
