@@ -4,14 +4,6 @@ A practical reference for Scrum and Product Management conceptual questions, ans
 
 ---
 
-## Challenge
-
-**ES** · *Responda las siguientes preguntas sobre Scrum y gestión de producto desde su criterio profesional.*
-
-**EN** · *Answer the following questions about Scrum and product management based on your professional criteria.*
-
----
-
 ## Repository Structure
 
 ```
