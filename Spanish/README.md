@@ -1,4 +1,4 @@
-# Scrum & Gestión de Producto — Criterios y Posicionamiento
+# Scrum & Gestión de Producto - Criterios y Posicionamiento
 
 ### Preguntas conceptuales sobre Scrum y Product Management
 
@@ -47,19 +47,19 @@ El backlog no es solo funcionalidades nuevas. También puede contener:
 ## 3. ¿Qué criterio optaría para ordenar un product backlog?
 
 No elegiría un solo criterio porque el backlog es dinámico y lo que importa cambia con el tiempo. Pero si tuviera que dar un marco, combinaría tres ejes:
-- **Valor para el negocio o el usuario** - ¿cuánto impacto real tiene esto si lo entregamos?
-- **Riesgo e incertidumbre** - lo que más riesgo técnico o de negocio tiene, antes. Si algo puede salir mal, mejor saberlo temprano
-- **Dependencias** - algunas cosas tienen que estar antes porque otras dependen de ellas
+- **Valor para el negocio o el usuario**: cuánto impacto real tiene esto si lo entregamos.
+- **Riesgo e incertidumbre**: lo que más riesgo técnico o de negocio tiene, va antes. Si algo puede salir mal, mejor saberlo temprano.
+- **Dependencias**: algunas cosas tienen que estar antes porque otras dependen de ellas.
 
-MoSCoW es útil como primera pasada para clasificar, y después dentro de cada categoría se ordena por valor y riesgo. La conversación con los stakeholders es clave — el PM no ordena el backlog solo.
+MoSCoW es útil como primera pasada para clasificar, y después dentro de cada categoría se ordena por valor y riesgo. La conversación con los stakeholders es clave. El PM no ordena el backlog solo.
 
 ---
 
 ## 4. ¿Cuántos product backlogs podemos tener por proyecto?
 
-Uno solo. Es un principio fundamental de Scrum: hay una única fuente de verdad para el trabajo del equipo, y esa es responsabilidad del Product Owner. Tener múltiples backlogs genera desincronización, trabajo duplicado y pérdida de visibilidad.
+Uno solo. Es un principio fundamental de Scrum. Hay una única fuente de verdad para el trabajo del equipo, y esa es responsabilidad del Product Owner. Tener múltiples backlogs genera desincronización, trabajo duplicado y pérdida de visibilidad.
 
-Dentro de ese único backlog podés tener vistas filtradas, agrupaciones por épica, etiquetas por componente o equipo — pero siempre es el mismo backlog. Si el proyecto es muy grande y tiene múltiples equipos, modelos de escalado como SAFe o LeSS resuelven eso con un Program Backlog compartido que alimenta los backlogs de cada equipo, pero conceptualmente sigue siendo una sola fuente de verdad.
+Dentro de ese único backlog podés tener vistas filtradas, agrupaciones por épica, etiquetas por componente o equipo. Pero siempre es el mismo backlog. Si el proyecto es muy grande y tiene múltiples equipos, modelos de escalado como SAFe o LeSS resuelven eso con un Program Backlog compartido que alimenta los backlogs de cada equipo, pero conceptualmente sigue siendo una sola fuente de verdad.
 
 ---
 
@@ -70,7 +70,7 @@ Obligatoriamente en tres:
 - **Sprint Review**: Es quien valida que lo entregado cumple con lo que se esperaba y recibe feedback de los stakeholders
 - **Refinement / Backlog Grooming**: Aunque técnicamente no es una ceremonia oficial de Scrum, en la práctica es donde el PO mas trabaja, prioriza, clarifica y descompone historias junto al equipo
 
-La Daily y la Retrospectiva son opcionales para el PO. En la Daily puede observar pero no debería interrumpir el flujo del equipo. En la Retro su presencia depende del equipo — a veces suma, a veces inhibe la conversación honesta.
+La Daily y la Retrospectiva son opcionales para el PO. En la Daily puede observar pero no debería interrumpir el flujo del equipo. En la Retro su presencia depende del equipo. A veces suma, a veces inhibe la conversación honesta.
 
 ---
 
